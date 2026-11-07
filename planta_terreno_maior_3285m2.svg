@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="792" viewBox="0 0 1120 792">
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M0 32V0H32" fill="none" stroke="#e8eff3"/></pattern><pattern id="hat" width="11" height="11" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><rect width="11" height="11" fill="#f0f3f6"/><path d="M0 0V11" stroke="#aec0ca" stroke-width="2"/></pattern></defs>
+<rect width="1120" height="792" fill="#fff"/><rect width="1120" height="14" fill="#172d43"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="50" y="58" font-size="31" fill="#18354b" font-weight="bold">TERRENO MATINHOS</text>
+<text x="50" y="90" font-size="16" fill="#587285">Planta interpretativa - artigo urbano 14883 - Troto, Almancil, Loulé</text>
+<line x1="50" y1="112" x2="1070" y2="112" stroke="#cad7de"/>
+<rect x="50" y="133" width="656" height="558" rx="10" fill="#fbfcfe" stroke="#d9e2e8"/>
+<rect x="60" y="143" width="636" height="536" fill="url(#grid)"/>
+<g transform="translate(150 162) scale(.84) translate(-244 -385)">
+<polygon points="352,385 389,391 438,409 494,428 548,448 603,470 660,495 716,520 666,637 648,631 638,672 601,664 536,941 468,906 398,841 318,751 245,672 244,663 278,570 316,480" fill="#e5f2ec" stroke="#ad2769" stroke-width="5" stroke-linejoin="round"/>
+<polygon points="650,491 716,520 666,637 648,631 638,672 601,664" fill="url(#hat)" stroke="#6c8390" stroke-width="3"/>
+<polygon points="352,385 389,391 438,409 494,428 548,448 603,470 660,495 716,520 666,637 648,631 638,672 601,664 536,941 468,906 398,841 318,751 245,672 244,663 278,570 316,480" fill="none" stroke="#ad2769" stroke-width="2" stroke-dasharray="12 9"/>
+</g>
+<text x="340" y="162" font-size="14" fill="#667a85" text-anchor="middle">Norte: Estrada Nacional 125</text>
+<path d="M99 240 V194 M89 210 L99 193 L109 210" fill="none" stroke="#18354b" stroke-width="3"/>
+<text x="99" y="179" font-size="16" fill="#18354b" font-weight="bold" text-anchor="middle">N</text>
+<text x="318" y="420" text-anchor="middle" font-size="23" font-weight="bold" fill="#216250">ARTIGO 14883</text>
+<text x="318" y="448" text-anchor="middle" font-size="18" fill="#216250">3 285 m²</text>
+<path d="M553 258 L633 240" stroke="#6d8190" stroke-width="1.7"/>
+<text x="624" y="215" font-size="13" fill="#38576d" text-anchor="middle">Edificação existente</text>
+<text x="624" y="233" font-size="13" fill="#38576d" text-anchor="middle">253 m² (registo)</text>
+<text x="75" y="670" font-size="12" fill="#687c8d">Perímetro aproximado interpretado de fotografia</text>
+<rect x="730" y="133" width="340" height="558" rx="10" fill="#f8fafb" stroke="#d9e2e8"/>
+<text x="755" y="174" font-size="14" fill="#647d8c" font-weight="bold">IDENTIFICAÇÃO</text>
+<text x="755" y="213" font-size="26" fill="#17344d" font-weight="bold">3 285 m²</text>
+<text x="755" y="239" font-size="13" fill="#587487">Área total - art. 14883</text>
+<path d="M755 254 H1045" stroke="#cddce3"/>
+<text x="755" y="285" font-size="14" fill="#17344d" font-weight="bold">Edificação registada</text>
+<text x="755" y="313" font-size="23" fill="#17344d">253 m²</text>
+<text x="755" y="334" font-size="13" fill="#587487">Armazém / atividade industrial</text>
+<path d="M755 350 H1045" stroke="#cddce3"/>
+<text x="755" y="381" font-size="14" fill="#17344d" font-weight="bold">Parcela excluída</text>
+<text x="755" y="407" font-size="17" fill="#aa2c68">Artigo 14868 - 1 327 m²</text>
+<text x="755" y="429" font-size="13" fill="#587487">Não representada na planta</text>
+<path d="M755 447 H1045" stroke="#cddce3"/>
+<text x="755" y="480" font-size="14" fill="#17344d" font-weight="bold">Legenda</text>
+<path d="M755 503 H791" stroke="#ad2769" stroke-width="3" stroke-dasharray="10 6"/>
+<text x="802" y="507" font-size="12" fill="#597180">Limite interpretativo</text>
+<rect x="755" y="525" width="35" height="18" fill="url(#hat)" stroke="#778b99"/>
+<text x="802" y="540" font-size="12" fill="#597180">Construção existente (aprox.)</text>
+<path d="M755 564 H1045" stroke="#cddce3"/>
+<text x="755" y="591" font-size="14" fill="#a52e68" font-weight="bold">ATENÇÃO: NÃO TOPOGRÁFICA</text>
+<text x="755" y="615" font-size="12" fill="#435d6f">Sem georreferenciação ou escala</text>
+<text x="755" y="633" font-size="12" fill="#435d6f">certificada. Não usar em obra.</text>
+<path d="M50 714 H1070" stroke="#cbd6de"/>
+<text x="50" y="742" font-size="13" fill="#526c7a">Fonte: levantamento fotografado, registo e caderneta; estudo preliminar de 07/11/2026.</text>
+<text x="50" y="765" font-size="12" fill="#6d8491">A edificação matricial não comprova licença. Ver auditoria e obter parecer atualizado da CML.</text>
+</g></svg>

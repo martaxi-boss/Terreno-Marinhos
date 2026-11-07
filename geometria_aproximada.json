@@ -1,0 +1,120 @@
+{
+  "schema": "terreno-matinhos-esboco-1",
+  "updated": "2026-11-07",
+  "parcel": "14883",
+  "area_m2_declared": 3285,
+  "excluded_parcel": "14868",
+  "excluded_m2": 1327,
+  "existing_building_m2_declared": 253,
+  "source": "interpretação de levantamento topográfico fotografado e documentos de 2021-2022",
+  "coordinate_system": "LOCAL_ILUSTRATIVO_NAO_GEOREFERENCIADO",
+  "normalization_note": "Comprimentos e area geometricamente aproximados. Forma escalada pelo valor matricial, sem precisão topográfica.",
+  "vertices_relative_m": [
+    [
+      16.2408,
+      0
+    ],
+    [
+      21.8047,
+      -0.9023
+    ],
+    [
+      29.1732,
+      -3.6091
+    ],
+    [
+      37.5944,
+      -6.4662
+    ],
+    [
+      45.7147,
+      -9.4738
+    ],
+    [
+      53.9855,
+      -12.7821
+    ],
+    [
+      62.557,
+      -16.5415
+    ],
+    [
+      70.9782,
+      -20.301
+    ],
+    [
+      63.4593,
+      -37.8951
+    ],
+    [
+      60.7525,
+      -36.9929
+    ],
+    [
+      59.2487,
+      -43.1583
+    ],
+    [
+      53.6847,
+      -41.9553
+    ],
+    [
+      43.9102,
+      -83.6099
+    ],
+    [
+      33.6845,
+      -78.3467
+    ],
+    [
+      23.1581,
+      -68.5721
+    ],
+    [
+      11.1279,
+      -55.0381
+    ],
+    [
+      0.1504,
+      -43.1583
+    ],
+    [
+      0,
+      -41.8049
+    ],
+    [
+      5.1128,
+      -27.8198
+    ],
+    [
+      10.8272,
+      -14.2859
+    ]
+  ],
+  "existing_footprint_reference_relative_m": [
+    [
+      61.0532,
+      -15.94
+    ],
+    [
+      70.9782,
+      -20.301
+    ],
+    [
+      63.4593,
+      -37.8951
+    ],
+    [
+      60.7525,
+      -36.9929
+    ],
+    [
+      59.2487,
+      -43.1583
+    ],
+    [
+      53.6847,
+      -41.9553
+    ]
+  ]
+}
