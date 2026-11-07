@@ -1,0 +1,111 @@
+{
+  "data_historica": "2022-08-25",
+  "area_terreno_m2": 3285,
+  "artigo": 14883,
+  "armazem_existente_m2": 253,
+  "cos_limite": 0.2,
+  "hab_ha_limite": 50,
+  "not_an_approval": true,
+  "opcoes": [
+    {
+      "id": "A",
+      "description": "Armazém + 2 T2 em três lotes",
+      "tipos": [
+        "T2 130m²",
+        "T2 120m²"
+      ],
+      "armazem": "manter 253m²",
+      "new_lots": 3,
+      "new_road_approx_m2": 620,
+      "lot_areas_approx_m2": [
+        1369,
+        684,
+        612
+      ],
+      "abc_total_m2": 503,
+      "density_net_hab_ha_approx": 49.4,
+      "condition": "Compatibilidade de uso industrial, frentes, recuos, legalidade do armazém"
+    },
+    {
+      "id": "B",
+      "description": "Quatro lotes com duas T2 e duas T3 duplex",
+      "tipos": [
+        "T3 150m²",
+        "T3 180m²",
+        "T2 110m²",
+        "T2 100m²"
+      ],
+      "armazem": "demolir como proposta, não obrigação geral",
+      "new_lots": 4,
+      "new_road_approx_m2": 483,
+      "lot_areas_approx_m2": [
+        762,
+        938,
+        582,
+        520
+      ],
+      "abc_total_m2": 540,
+      "density_net_hab_ha_approx": 45.7,
+      "condition": "Recuos do lote 4 não demonstrados, frentes públicas, arruamento e servidões"
+    },
+    {
+      "id": "C",
+      "description": "Quatro geminadas, dois blocos no mesmo prédio",
+      "tipos": [
+        "T2 115m²",
+        "T3 185m²",
+        "T2 115m²",
+        "T3 185m²"
+      ],
+      "armazem": "demolir como proposta",
+      "new_lots": 0,
+      "abc_total_m2": 600,
+      "site_footprint_approx_m2": 300,
+      "condition": "Admissibilidade de edificações geminadas sem loteamento carece de confirmação"
+    },
+    {
+      "id": "D",
+      "description": "Um edifício plurifamiliar, quatro apartamentos",
+      "tipos": [
+        "T1 65m²",
+        "T2 105m²",
+        "T3 120m²",
+        "T3 140m²"
+      ],
+      "other_common_m2": 20,
+      "armazem": "demolir",
+      "abc_total_m2": 450,
+      "site_footprint_approx_m2": 225,
+      "condition": "Plurifamiliar sem confirmação CML"
+    },
+    {
+      "id": "E",
+      "description": "Converter armazém 253m² + 197m² no 1.º piso",
+      "tipos": [
+        "T1 60m²",
+        "T2 100m²",
+        "T2 75m²",
+        "T3 175m²"
+      ],
+      "other_common_m2": 40,
+      "armazem": "reconverter preexistência",
+      "abc_total_m2": 450,
+      "condition": "Legalidade urbanística e estabilidade estrutural por comprovar"
+    },
+    {
+      "id": "F",
+      "description": "Cinco apartamentos num único edifício - cenário limiar",
+      "tipos": [
+        "T1 60m²",
+        "T1 60m²",
+        "T2 85m²",
+        "T2 95m²",
+        "T3 130m²"
+      ],
+      "other_common_m2": 20,
+      "armazem": "demolir",
+      "abc_total_m2": 450,
+      "condition": "5 fogos aprox.48,7 hab/ha em área bruta; se descontar >85m² supera 50hab/ha"
+    }
+  ]
+}
